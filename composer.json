@@ -1,0 +1,11 @@
+{
+    "name": "pakkkek/voting-system",
+    "description": "A web-based voting system for course project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
